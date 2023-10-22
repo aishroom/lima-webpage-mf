@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lima-webpage-mf/static/css/main.6ccd65a8.css",
+    "main.js": "/lima-webpage-mf/static/js/main.9619c08f.js",
+    "static/js/787.e042e3e2.chunk.js": "/lima-webpage-mf/static/js/787.e042e3e2.chunk.js",
+    "index.html": "/lima-webpage-mf/index.html",
+    "main.6ccd65a8.css.map": "/lima-webpage-mf/static/css/main.6ccd65a8.css.map",
+    "main.9619c08f.js.map": "/lima-webpage-mf/static/js/main.9619c08f.js.map",
+    "787.e042e3e2.chunk.js.map": "/lima-webpage-mf/static/js/787.e042e3e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ccd65a8.css",
+    "static/js/main.9619c08f.js"
+  ]
+}
